@@ -1,0 +1,33 @@
+{
+  "status": "error",
+  "assets": {
+    "img/logo.82b9c7a5.png": {
+      "name": "img/logo.82b9c7a5.png",
+      "path": "/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/dist/img/logo.82b9c7a5.png",
+      "publicPath": "http://0.0.0.0:8080/img/logo.82b9c7a5.png"
+    },
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/dist/js/app.js",
+      "publicPath": "http://0.0.0.0:8080/js/app.js"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/dist/index.html",
+      "publicPath": "http://0.0.0.0:8080/index.html"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/dist/favicon.ico",
+      "publicPath": "http://0.0.0.0:8080/favicon.ico"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/app.js"
+    ]
+  },
+  "publicPath": "http://0.0.0.0:8080/",
+  "error": "ModuleBuildError",
+  "message": "Module build failed (from ./node_modules/eslint-loader/index.js):\nError: ENOENT: no such file or directory, open '/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/src/main.js'"
+}
