@@ -20,25 +20,12 @@
       "name": "favicon.ico",
       "path": "/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/dist/favicon.ico",
       "publicPath": "http://0.0.0.0:8080/favicon.ico"
-    },
-    "app.838dd184750ad80fbbf0.hot-update.js": {
-      "name": "app.838dd184750ad80fbbf0.hot-update.js",
-      "path": "/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/dist/app.838dd184750ad80fbbf0.hot-update.js",
-      "publicPath": "http://0.0.0.0:8080/app.838dd184750ad80fbbf0.hot-update.js"
-    },
-    "838dd184750ad80fbbf0.hot-update.json": {
-      "name": "838dd184750ad80fbbf0.hot-update.json",
-      "path": "/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/dist/838dd184750ad80fbbf0.hot-update.json",
-      "publicPath": "http://0.0.0.0:8080/838dd184750ad80fbbf0.hot-update.json"
     }
   },
   "chunks": {
     "app": [
-      "js/app.js",
-      "app.838dd184750ad80fbbf0.hot-update.js"
+      "js/app.js"
     ]
   },
-  "publicPath": "http://0.0.0.0:8080/",
-  "error": "ModuleBuildError",
-  "message": "Module build failed (from ./node_modules/eslint-loader/index.js):\nError: ENOENT: no such file or directory, open '/home/tsanga/Bureau/CONSERVE/conserve2/programmation/PROJETS/PROJET6_Ramav/Ramav/Site-Ramav/Ramav/frontend/src/main.js'"
+  "publicPath": "http://0.0.0.0:8080/"
 }
